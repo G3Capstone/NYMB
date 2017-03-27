@@ -1,0 +1,13 @@
+E:\Spring 2017\Capstone\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Spring 2017\Capstone\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Spring 2017\Capstone\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Spring 2017\Capstone\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Spring 2017\Capstone\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Spring 2017\Capstone\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Spring 2017\Capstone\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Spring 2017\Capstone\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Spring 2017\Capstone\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Spring 2017\Capstone\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Not_Your_Mother_s_Basement___Login.resources
+E:\Spring 2017\Capstone\Capstone\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Spring 2017\Capstone\Capstone\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Spring 2017\Capstone\Capstone\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
