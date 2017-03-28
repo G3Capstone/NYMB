@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{FB432659-BD47-4B4F-8EE4-467A00116DFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5EC748F1-72C9-4599-A25D-6B84BF6FA1F8}"
+	ProjectSection(SolutionItems) = preProject
+		Binder.cs = Binder.cs
+		BoardGame.cs = BoardGame.cs
+		Comic.cs = Comic.cs
+		Dice.cs = Dice.cs
+		Event.cs = Event.cs
+		Item.cs = Item.cs
+		Misc.cs = Misc.cs
+		Sleeves.cs = Sleeves.cs
+		TabletopGame.cs = TabletopGame.cs
+		TradingCard.cs = TradingCard.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB432659-BD47-4B4F-8EE4-467A00116DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB432659-BD47-4B4F-8EE4-467A00116DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB432659-BD47-4B4F-8EE4-467A00116DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB432659-BD47-4B4F-8EE4-467A00116DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

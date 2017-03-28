@@ -11,3 +11,6 @@ E:\Spring 2017\Capstone\WindowsFormsApplication1\WindowsFormsApplication1\obj\De
 E:\Spring 2017\Capstone\Capstone\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 E:\Spring 2017\Capstone\Capstone\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 E:\Spring 2017\Capstone\Capstone\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\alvesj5327\Source\Repos\NYMB\Capstone\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\alvesj5327\Source\Repos\NYMB\Capstone\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\alvesj5327\Source\Repos\NYMB\Capstone\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
