@@ -2,13 +2,23 @@
 
 public class Sleeves : Item
 {
-    private string _type, _size, _color, _manufacturer;
+    private string _type, _size, _color, _manufacturer; //holds type, size, color, and manufacturer respectively
 
-	public Sleeves()
+	/// <summary>
+    /// no arg constuctor
+    /// </summary>
+    public Sleeves()
         : base ("Item")
 	{
 	}
 
+    /// <summary>
+    /// constructor to initiate with values
+    /// </summary>
+    /// <param name="t"></param>
+    /// <param name="s"></param>
+    /// <param name="c"></param>
+    /// <param name="m"></param>
     public Sleeves(string t, string s, string c, string m)
         : base ("Item")
     {
@@ -18,6 +28,7 @@ public class Sleeves : Item
         _manufacturer = m;
     }
 
+    //get/setters
     public string Type
     {
         get { return _type; }

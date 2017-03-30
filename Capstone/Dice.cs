@@ -2,13 +2,22 @@
 
 public class Dice : Item
 {
-    private string _color, _manufacturer, _description;
+    private string _color, _manufacturer, _description; //holds color, manufactuerer, and description respectively.
 
-	public Dice()
+	/// <summary>
+    /// no arg constuctor
+    /// </summary>
+    public Dice()
         : base ("Item")
 	{
 	}
 
+    /// <summary>
+    /// constructor to initiate with values
+    /// </summary>
+    /// <param name="c"></param>
+    /// <param name="m"></param>
+    /// <param name="d"></param>
     public Dice(string c, string m, string d)
         :base ("Item")
     {
@@ -17,6 +26,7 @@ public class Dice : Item
         _description = d;
     }
 
+    //get/setters
     public string Color
     {
         get { return _color; }

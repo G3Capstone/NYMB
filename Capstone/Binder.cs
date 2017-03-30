@@ -2,25 +2,35 @@
 
 public class Binder : Item
 {
-    private string size, color, manufacturer;
+    private string _size, _color, _manufacturer;   //holds size, color, and manufacturer respectively.
 
-	public Binder()
+	/// <summary>
+    /// no arg constructor
+    /// </summary>
+    public Binder()
         : base ("Item")
 	{
         
 	}
 
-    public Binder(string n, string s, string c, string m, double p)
+    /// <summary>
+    /// constructor to initiate with values
+    /// </summary>
+    /// <param name="n"></param>
+    /// <param name="s"></param>
+    /// <param name="c"></param>
+    /// <param name="m"></param>
+    /// <param name="p"></param>
+    public Binder(string s, string c, string m)
         : base ("Item")
     {
-        name = n;
-        size = s;
-        color = c;
-        manufacturer = m;
-        price = p;
+        _size = s;
+        _color = c;
+        _manufacturer = m;
     }
 
     
+    //getters and setters
     public string Size
     {
         get { return size; }

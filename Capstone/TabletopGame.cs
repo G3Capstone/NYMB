@@ -2,14 +2,23 @@
 
 public class TabletopGame : Item
 {
-    private string _game, _publisher;
-    private int _game_id;
+    private string _game, _publisher;   //holds game, and publisher respectively
+    private int _game_id;   //holds game id
 
-	public TabletopGame()
+	/// <summary>
+    /// no arg constuctor
+    /// </summary>
+    public TabletopGame()
         : base ("Item")
 	{
 	}
 
+    /// <summary>
+    /// constructor to initiate with values
+    /// </summary>
+    /// <param name="g"></param>
+    /// <param name="p"></param>
+    /// <param name="g"></param>
     public TabletopGame(string g, string p, int g)
         : base ("Item")
     {
@@ -18,6 +27,7 @@ public class TabletopGame : Item
         _game = g;
     }
 
+    //get/setters
     public string Game
     {
         get { return _game; }
